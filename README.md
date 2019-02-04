@@ -13,7 +13,7 @@ This software comes with no warranty of any kind.
 
 Tis solutions contains from two parts FunctionApps (Azure Functions) and StaticWebSite (Storage account Static website).
 
-##FunctionApps
+## FunctionApps
 
 This files should be applied to FunctionApps v1.0 (PowerShell). It contains project https://github.com/EliteLoser/SSHSessions.
 

@@ -4,8 +4,8 @@ SSH over PowerShell Azure Functions
 ##About
 This repository contains complete solution that allows you to issue any commands via SSH requesting GET Azure Functions.
 
-## Disclaimer
-**This software comes with no warranty of any kind**.
+##Disclaimer
+This software comes with no warranty of any kind.
 
 ##Solution
 Tis solutions contains from two parts FunctionApps (Azure Functions) and StaticWebSite (Storage account Static website).

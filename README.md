@@ -1,15 +1,15 @@
 # SSHAzureFunctions
 SSH over PowerShell Azure Functions
 
-##About
+## About
 
 This repository contains complete solution that allows you to issue any commands via SSH requesting GET Azure Functions.
 
-##Disclaimer
+## Disclaimer
 
 This software comes with no warranty of any kind.
 
-##Solution
+## Solution
 
 Tis solutions contains from two parts FunctionApps (Azure Functions) and StaticWebSite (Storage account Static website).
 
@@ -24,7 +24,7 @@ If FunctionApps will exist in your private network you can use it in internal ad
 
 You can connect also to Windows Servers/Clients after installing SSH: https://rzetelnekursy.pl/ssh-demon-for-windows-jak-zainstalowac-demona-ssh-na-windows/
 
-##StaticWebSite
+## StaticWebSite
 
 This page can be deployed an any hosting e.g. Azure Storage account with Static website feature.
 
@@ -32,7 +32,7 @@ It was created by https://mobirise.com/ software (Create awesome mobile-friendly
 
 You can also add 
 
-##To Do
+## To Do
 
 Everyone is welcome to develop this solution.
 
@@ -41,5 +41,5 @@ Everyone is welcome to develop this solution.
 3. Improve "$sblock  = [Scriptblock]::Create($command)" functionality that breaks some Linux commands  
 4. Create Mobile Client (Cordova)
 
-##Demo
+## Demo
 You can test it using this page: https://spages.z6.web.core.windows.net/

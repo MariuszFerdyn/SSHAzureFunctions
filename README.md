@@ -40,6 +40,7 @@ Everyone is welcome to develop this solution.
 2. Nice Return Page (FunctionApps)
 3. Improve "$sblock  = [Scriptblock]::Create($command)" functionality that breaks some Linux commands  
 4. Create Mobile Client (Cordova)
+5. Convert from PowerShell to .Net Core (FunctionApps)
 
 ## Demo
 You can test it using this page: https://spages.z6.web.core.windows.net/
